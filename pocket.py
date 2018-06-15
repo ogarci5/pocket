@@ -5,8 +5,8 @@ import pyautogui
 from argparse import ArgumentParser
 from sys import exit
 
-START_DIMS = {'x': 125, 'y': 53}
-RESOLUTION = {'x': 1687, 'y': 951}
+START_DIMS = {'x': 133, 'y': 58}
+RESOLUTION = {'x': 1671, 'y': 941}
 
 class Pocket(object):
   def __init__(self, args):
